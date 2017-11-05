@@ -1,8 +1,5 @@
 ## 欢迎来到河北工业大学计算机科学与软件学院软件161班的主页
-
-You can use the [editor on GitHub](https://github.com/huqiming513/Qm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在这里你将看到我们软件161班学子们展现自己的风采，挥洒自己的青春汗水，共同书写我们的华丽篇章。
 
 ### Markdown
 
